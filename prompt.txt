@@ -1,0 +1,9 @@
+Tugas sekali jalan (runonce) — build kompetisi make.fun GRATIS "news-image-20261125" yang baru buka, atas nama akun @clever-robin-27, sesuai protokol AFK user (gampang + gratis = kerjakan langsung, laporkan setelahnya). BACA DULU: ~/workspace/custom-skills/makefun/SKILL.md.
+
+KOMPETISI: slug `news-image-20261125`, judul "Sum up 25 November's world news in one image", pot $100 (50 besar berbagi; juara 1 $20, juara 2 $12, juara 3 $6). Buka 07:00 WIB Rabu 25 Nov 2026 (2026-11-25T00:00:00Z), deadline Kamis 27 Nov 07:00 WIB (2026-11-27T00:00:00Z). Jenis: satu gambar 1024x1024 (maks 1 MB) yang merangkum berita dunia hari Rabu 25 November 2026, gaya halaman depan koran. Juri AI membandingkan gambar peserta dua-dua.
+
+PENTING — JANGAN PAKAI HASIL KEMARIN: gambar/cerita entry news-image-20261124 (Nvidia/Huang, kebakaran Cikande, dll.) TIDAK BOLEH dipakai ulang — riset berita 25 Nov dari nol di sesi ini, gambar baru.
+
+LANGKAH: (1) Riset berita dunia nyata hari Rabu 25 November 2026 (pencarian web — berita 25 Nov, bukan 24 Nov; peristiwa yang diumumkan 24 Nov sore di Amerika/Eropa terhitung 25 Nov di Asia-Pasifik, pakai penalaran yang sama seperti entry kemarin). (2) Generate gambar 1024x1024 (<=1 MB) yang merangkum berita hari itu, gaya halaman depan koran (masthead + hero + grid + footer). (3) Tulis main.py stdlib-only (copy entry.png -> $MAKEFUN_OUTPUT_DIR/entry.png, cek sha256) + drawing script PIL terpisah + NEWS.md + prompt.txt, mirror struktur news-image-20261124-v2. (4) EGM goldfish review. (5) Repo GitHub publik baru KuroriShizuri/news-image-20261125, push + commit .makefun/owner.json (wallet 2p6oZ47zoMvA6QPxntVyYn8piN9rKZ1Gjr4CK7gahHUA). (6) Kit check tanpa transcripts. JANGAN submit, JANGAN bundle — parent yang bundle + submit.
+
+ATURAN KERAS: gratis saja — jangan pernah bayar entry fee atau transaksi apa pun. Akun @clever-robin-27, API key di ~/.makefun/credentials, referral 1g7byhvf. Jangan ubah MEMORY.md.
